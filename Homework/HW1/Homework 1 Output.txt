@@ -1,0 +1,18 @@
+[005488635@csusb.edu@csevnc HW1]$ c++ main.cpp Vector.h
+[005488635@csusb.edu@csevnc HW1]$ ./a.out
+Size of v1: 10
+Printing vector: 1 2 3 4 5 6 7 8 9 10
+
+Erasing index 10
+Printing vector: 1 2 3 4 5 6 7 8 9
+
+Erasing index 3
+Printing vector: 1 2 3 5 6 7 8 9
+
+Inserting value 777 into location 10 in the vector:
+Printing vector: 1 2 3 4 5 6 7 8 9 10 777
+
+Inserting value 777 into location 5 in the vector:
+Printing vector: 1 2 3 4 5 777 6 7 8 9 10 777
+
+[005488635@csusb.edu@csevnc HW1]$
